@@ -11,6 +11,7 @@ concepts used for creating a smart dustbin?
 IoT and Networks
 
 what are components requried?
+
 Arduino UNO 
 HC-SR04 Ultrasonic Sensor Module.
 TowerPro SG90 Servo Motor.
